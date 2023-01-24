@@ -4,16 +4,18 @@ Bu repo [Kodluyoruz](https://www.youtube.com/@Kodluyoruz/featured) Front-End Eğ
 
 ## Installation
 
-Öncelikle projeyi clonelayın.
-git clone https://github.com/AhmetEGIN/kodluyoruzilkrepo.git
+Öncelikle projeyi clonelayın.     
+
+` git clone https://github.com/AhmetEGIN/kodluyoruzilkrepo.git`
 
 ## USAGE
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-cd kodluyoruz ilkrepo
-code .
+
+`cd kodluyoruz ilkrepo
+code .`
 
 ## Contributing
 
